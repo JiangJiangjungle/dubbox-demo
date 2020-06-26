@@ -1,9 +1,12 @@
-package com.jsj.consumer;
+package com.jsj.dubbox.sample.provider;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.ImportResource;
 
+/**
+ * @author jiangshenjie
+ */
 @SpringBootApplication
 @ImportResource({"classpath:dubbox.xml"})
 public class Application {
