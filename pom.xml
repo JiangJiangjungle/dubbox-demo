@@ -28,7 +28,7 @@
         <commons-lang3.version>3.7</commons-lang3.version>
         <lombok.version>1.16.6</lombok.version>
         <slf4j-api.version>1.7.21</slf4j-api.version>
-        <logback.version>1.2.3</logback.version>
+        <logback.version>1.2.13</logback.version>
         <dubbo.version>dubbox-2.8.4</dubbo.version>
         <zkclient.version>0.6</zkclient.version>
         <api.version>${project.version}</api.version>
